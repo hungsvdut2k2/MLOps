@@ -1,0 +1,4 @@
+datasets==2.18.0
+transformers[torch]==4.36.2
+huggingface-hub==0.21.3
+seqeval==1.2.2
